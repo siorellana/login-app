@@ -22,13 +22,13 @@
     </ul>
 
     <ul class="navbar-nav mx-auto">
-      <li class="nav-item active">
+      <li class="nav-item active" *ngIf="!isLogin">
         <a class="nav-link" href="#" routerLink="/login">Login <span class="sr-only">(current)</span></a>
       </li>
-      <li class="nav-item">
+      <li class="nav-item" *ngIf="!isLogin">
         <a class="nav-link" href="#" routerLink="/register">Registrarse</a>
       </li>
-      <li class="nav-item">
+      <li class="nav-item" *ngIf="isLogin">
         <a class="nav-link" href="#" (click)="onLogout()">Salir</a>
       </li>
       <!-- <li class="nav-item">
