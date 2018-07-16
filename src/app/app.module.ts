@@ -18,6 +18,7 @@ import { AngularFireAuthModule } from 'angularfire2/auth';
 import { AngularFirestoreModule } from 'angularfire2/firestore';
 
 import { AuthService } from './services/auth.service';
+import { AuthGuard} from './guards/auth.guard';
 
 import { environment } from '../environments/environment';
 
@@ -42,7 +43,7 @@ import { environment } from '../environments/environment';
       HttpClientModule,
       FormsModule
   ],
-  providers: [AuthService],
-  bootstrap: [AppComponent]
+  providers: [AuthService, AuthGuard],
+  bootstrap: [AppComponent],
 })
 export class AppModule { }
