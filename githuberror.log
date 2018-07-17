@@ -1,0 +1,691 @@
+    1  pwd
+    2  ls
+    3  exit
+    4  vi ~./zshrc
+    5  vi ~/.zshrc
+    6  wsx
+    7  brew install terraform
+    8  cd OneDrive
+    9  ls
+   10  ll
+   11  mkdir DIGITAL
+   12  ls
+   13  cd DIGITAL
+   14  ls
+   15  ll
+   16  cd ../Desarrollo
+   17  ll
+   18  cd ..
+   19  ls
+   20  cd DIGITAL
+   21  ls
+   22  cd ..
+   23  Desarrollo
+   24  ls
+   25  mkdir git
+   26  cd git
+   27  https://github.com/mjaniszew/osx-touchbar-party-parrot.git
+   28  git clone https://github.com/mjaniszew/osx-touchbar-party-parrot.gitt
+   29  git clone https://github.com/mjaniszew/osx-touchbar-party-parrot.git
+   30  ll
+   31  ls
+   32  cd osx-touchbar-party-parrot
+   33  ls
+   34  ll
+   35  npm install
+   36  npm start
+   37  npm test
+   38  pwd
+   39  ls
+   40  vi ~/.zsh
+   41  vi ~/.zshrc
+   42  cd /Users/siorellana/OneDrive/Desarrollo/git/osx-touchbar-party-parrot
+   43  ls
+   44  party
+   45  source ~/.zshrc
+   46  party
+   47  vi ~/.zshrc
+   48  source ~/.zshrc
+   49  party
+   50  clear
+   51  cd ~siorellana/.ssh
+   52  ll
+   53  touch config
+   54  ll
+   55  party
+   56  ls
+   57  cd OneDrive
+   58  ls
+   59  cd D
+   60  cd DIGITAL/ls
+   61  cd DIGITAL/
+   62  ls
+   63  ll
+   64  mkdir git
+   65  cd git
+   66  ls
+   67  git clone https://siorellana@bitbucket.org/sinoda/terraform-gcp-percona-mysql.git
+   68  ls
+   69  cd terraform-gcp-percona-mysql
+   70  ls
+   71  pwd
+   72  ssh-keygen -t rsa -f ~/.ssh/terraform -C seba
+   73  chmod 400 ~/.ssh/terraform
+   74  pwd
+   75  ls
+   76  terraform init
+   77  terraform apply
+   78  terraform destroy
+   79  party
+   80  pwd
+   81  ls
+   82  cd OneDrive
+   83  cd Desarrollo
+   84  cd git
+   85  ls
+   86  https://github.com/henryefranks/pac-bar.git
+   87  ls
+   88  cd pac-bar-master
+   89  ls
+   90  cat README.md
+   91  ./Pac-Bar.xcodeproj
+   92  ls
+   93  cd ..
+   94  cd Pac-Bar
+   95  ls
+   96  party
+   97  pwd
+   98  terraform init
+   99  terraform plan
+  100  terraform apply
+  101  cd ~/.ssh
+  102  ls
+  103  ll
+  104  cat terraform.pub
+  105  terraform destroy
+  106  ls
+  107  cd $HOME
+  108  ls
+  109  cd OneDrive/DIGITAL/ls
+  110  cd OneDrive/DIGITAL/
+  111  ls
+  112  cd git/terraform-gcp-percona-mysql
+  113  ls
+  114  terraform destroy
+  115  terraform deploy
+  116  terraform apply
+  117  ssh ro-7pSW58MuWyfO3KZKJdl7GYZ3h@ny2.tmate.io
+  118  ssh 82loEA2Dz44fU5uoi8adSgJ48@ny2.tmate.io
+  119  terraform destroy
+  120  terraform apply
+  121  terraform destroy
+  122  terraform apply
+  123  terraform destroy
+  124  terraform apply
+  125  terraform destroy
+  126  terraform apply
+  127  cd ~/.ssh
+  128  ls
+  129  ll
+  130  ssh seba@35.196.161.43 -i terraform
+  131  ssh seba@35.196.220.254 -i terraform
+  132  cd ~/.ssh
+  133  cd ~./
+  134  cd ~/.ssh
+  135  ls
+  136  ll
+  137  cat config
+  138  vi config
+  139  pwd
+  140  ssh master 35.237.161.97
+  141  vi config
+  142  ssh master
+  143  vi config
+  144  ssh rman
+  145  cd $HOME
+  146  ls
+  147  vi ~/.zshrc
+  148  source ~/.zshrc
+  149  pwd
+  150  cd ..
+  151  cd 
+  152  cd /
+  153  cd ..
+  154  vi ~/.zshrc
+  155  source ~/.zshrc
+  156  cd /
+  157  ls
+  158  lls
+  159  vi ~/.zshrc
+  160  source ~/.zshrc
+  161  cd /
+  162  ls
+  163  pwd
+  164  cd /Users/siorellana/OneDrive/DIGITAL/git
+  165  ls
+  166  cd terraform-gcp-percona-mysql/
+  167  exit
+  168  pwd
+  169  vi ~/.zshrc
+  170  exit
+  171  cd /Users/siorellana/.oh-my-zsh/themes/
+  172  ls
+  173  vi ~/.zshrc
+  174  exit
+  175  ls
+  176  pwd
+  177  cd $HOME
+  178  ls
+  179  vi ~/.zshrc
+  180  exit
+  181  clear
+  182  pwd
+  183  vi ~/.zshrc
+  184  exit
+  185  clear
+  186  ssh master
+  187  vi ~/.ssh/config
+  188  ssh slave1
+  189  ssh slave2
+  190  vi ~/.ssh/config
+  191  ssh slave2
+  192  ssh slave1
+  193  vi ~/.ssh/config
+  194  ssh slave1
+  195  vi ~/.ssh/config
+  196  ssh slave1
+  197  ssh slave2
+  198  ssh master
+  199  cat ~/.ssh/config
+  200  ssh master
+  201  vi ~/.ssh/config
+  202  ssh master
+  203  ssh slave1
+  204  ssh master
+  205  ssh rman
+  206  exit
+  207  ssh slave1
+  208  vi ~/.ssh/config
+  209  ssh slave1
+  210  ssh slave2
+  211  ssh slave 1
+  212  ssh slave1
+  213  ssh slave2
+  214  ssh slave1
+  215  ssh master
+  216  ssh slave2
+  217  terraform plan
+  218  ssh slave2
+  219  ssh slave1
+  220  ssh master
+  221  vi ~/.ssh/config
+  222  cd ~/.ssh
+  223  ls
+  224  ssh-keygen
+  225  ll
+  226  ssh-copy-id -i ~/.ssh/wsx sorellan@wsx.dev.latam.com
+  227  pwd
+  228  ssh wsx
+  229  ssh-copy-id -i ~/.ssh/wsx sorellan@wsx.dev.latam.com
+  230  ssh sorellan@wsx.dev.latam.com
+  231  ssh sorellan@ws3.prod.latam.com
+  232  ssh sorellan@ws3.prod.lan.com
+  233  ssh sorellan@devel4.prod.lan.com
+  234  vi ~/.ssh/config
+  235  ssh-copy-id -i ~/.ssh/wsx sorellan@devel4.prod.lan.com
+  236  ssh wsx
+  237  party
+  238  source ~/.zshrc
+  239  party
+  240  ls
+  241  vi ~/.bashrc
+  242  source ~/.bashrc
+  243  vi ~/.bashrc
+  244  hora
+  245  vi ~/.bashrc
+  246  source ~/.bashrc
+  247  echo time
+  248  echo hora
+  249  source ~/.bashrc
+  250  vi ~/.bashrc
+  251  source ~/.bashrc
+  252  echo hora
+  253  hora
+  254  hola
+  255  party
+  256  source ~/.zshrc
+  257  vi  ~/.zshrc
+  258  npm start --prefix /Users/siorellana/OneDrive/Desarrollo/git/osx-touchbar-party-parrot
+  259  cd /Users/siorellana/OneDrive/Desarrollo/git/
+  260  ll
+  261  cd osx-touchbar-party-parrot
+  262  ls
+  263  ll
+  264  git pull
+  265  cd ..
+  266  ls
+  267  git pull
+  268  party
+  269  ssh wsx
+  270  vi  ~/.zshrc
+  271  source ~/.zshrc
+  272  wsx
+  273  vi  ~/.zshrc
+  274  ssh wsx
+  275  vi  ~/.zshrc
+  276  source ~/.zshrc
+  277  wsx
+  278  party
+  279  ssh wsx
+  280  wsx
+  281  ssh 57.228.160.57
+  282  ssh hp4166378@57.228.160.57
+  283  ssh hp4166378@lprvcrman
+  284  wsx
+  285  pwd
+  286  wsx
+  287  ssh master
+  288  wsx
+  289  ssh central01dal
+  290  wsx
+  291  terraform apply
+  292  pwd
+  293  ls
+  294  cd .ssh
+  295  ll
+  296  cat config
+  297  clear
+  298  gcloud init
+  299  pwd
+  300  ls
+  301  cd OneDrive
+  302  ls
+  303  cd Desarrollo
+  304  ls
+  305  cd ..
+  306  cd Learning
+  307  l
+  308  ls
+  309  cd Google\ Cloud
+  310  ls
+  311  ll
+  312  ./SDK\ GCP
+  313  wsx
+  314  f -h
+  315  ssh -4 -L 5555:vldap1wdc:389 luadonis@wsx.dev.latam.com -v\n
+  316  ssh -4 -L 5555:vldap1wdc:389 sorellan@debel4.prod.latam.com -v
+  317  wsx
+  318  cat .ssh/config
+  319  ssh -4 -L 5555:vldap1wdc:389 sorellan@devel4.prod.latam.com -v
+  320  wsx
+  321  ssh -4 -L 5555:vldap1wdc:389 sorellan@devel4.prod.latam.com -v
+  322  ssh -4 -L 5555:vldap1wdc:389 sorellan@devel4.prod.lan.com -v
+  323  vi ~/.zshrc
+  324  tunel
+  325  exit
+  326  tunel
+  327  wsx
+  328  brew install svn
+  329  svn
+  330  svn checkout https://svn.prod.lan.com/repos/dns
+  331  pwd
+  332  cd OneDrive
+  333  ls
+  334  cd DIGITAL
+  335  ls
+  336  mkdir svn
+  337  cd svn
+  338  ls
+  339  svn checkout https://svn.prod.lan.com/repos/dns
+  340  ll
+  341  cd dns
+  342  ls
+  343  cd branches
+  344  ls
+  345  cd ..
+  346  pwd
+  347  ls
+  348  clear
+  349  wsx
+  350  ssh -p443 UuKT4nF7f0n5HbeZSOJmeKjFt@169.46.42.215
+  351  sudo ssh -p443 UuKT4nF7f0n5HbeZSOJmeKjFt@169.46.42.215
+  352  ssh -p443 QEOkvqMtnw1RqsXmATu9d8cXi@169.46.42.215
+  353  pwd
+  354  cd ..
+  355  ls
+  356  cd ..
+  357  ls
+  358  cd git
+  359  ls
+  360  git clone https://sorellan@git.it.lan.com/scm/cc/resolverlatam.git
+  361  ls
+  362  cd resolverlatam
+  363  ll
+  364  party
+  365  wsx
+  366  ssh paxmanagerweb.pool.lan.com
+  367  wsx
+  368  svn up
+  369  pip3 install bashate
+  370  brew install focusaurus/homebrew-shfmt/shfmt
+  371  pwd
+  372  cd OneDrive
+  373  cd DIGITAL
+  374  ls
+  375  cd git
+  376  ls
+  377  mkdir DXC
+  378  ls
+  379  cd DXC
+  380  ls
+  381  git https://sorellan@git.it.lan.com/scm/dxc/bash.git
+  382  git clone https://sorellan@git.it.lan.com/scm/dxc/bash.git
+  383  ll
+  384  cd bash
+  385  ls
+  386  ll
+  387  git pull
+  388  git checkout -v
+  389  git checkout -b
+  390  git checkout -b DXC-200
+  391  ls
+  392  mkdir Otros
+  393  cd Otros
+  394  vi check-dns.sh
+  395  bashate check-dns.sh
+  396  shfmt check-dns.sh
+  397  bashate check-dns.sh
+  398  ssh dns1dal
+  399  wsx
+  400  dig www.latam.com
+  401  dig tripulanteaimsdrp.appslatam.com
+  402  dig www.tripulanteaimsdrp.appslatam.com
+  403  curl -X POST -H "Content-Type: application/json" http://vsicco1dal.prod.lan.com:8080/LATAMApiSicco-2.0/sicco/rest/save
+  404  wsx
+  405  ll
+  406  ls
+  407  bashate check-dns.sh
+  408  vi check-dns.sh
+  409  shfmt check-dns.sh
+  410  bashate check-dns.sh
+  411  vi check-dns.sh
+  412  bashate check-dns.sh -a
+  413  bashate check-dns.sh
+  414  vi check-dns.sh
+  415  bashate check-dns.sh
+  416  vi check-dns.sh
+  417  shfmt check-dns.sh
+  418  cat check-dns.sh
+  419  shfmt check-dns.sh -a
+  420  cat check-dns.sh
+  421  man shfmt
+  422  git commit
+  423  git add .
+  424  git commit -am "Ticket DXC-200"
+  425  git commit -m "Ticket DXC-200"
+  426  ls
+  427  git add -A
+  428  git commit -m "Ticket DXC-200"
+  429  cd ..
+  430  ll
+  431  ls
+  432  git add Otros
+  433  git commit -m "Ticket DXC-200"
+  434  git commit -m "DXC-200 holi"
+  435  ls
+  436  git pull
+  437  git checkout DXC-200
+  438  LS
+  439  git add -A
+  440  git diff
+  441  cd Mysql
+  442  ll
+  443  cd HealthCheck
+  444  ll
+  445  vi pt-mysql-summary.sh
+  446  cd ..
+  447  ls
+  448  cd ..
+  449  ls
+  450  cd ..
+  451  ls
+  452  cd ..
+  453  ls
+  454  cd terraform-gcp-percona-mysql
+  455  ls
+  456  cd ..
+  457  ls
+  458  cd resolverlatam
+  459  ls
+  460  cd ..
+  461  ls
+  462  cd DXC
+  463  ls
+  464  cd bash
+  465  ls
+  466  git commit -m "DXC-200 holi 2"
+  467  cd Mysql/HealthCheck
+  468  ls
+  469  cd
+  470  pwd
+  471  cd OneDrive/DIGITAL/git/DXC/bash/Otros
+  472  ll
+  473  git config --global user.name "Sebastian Orellana"\n
+  474  git config --global user.email "sebastian-ignacio.orellana-salazar@dxc.com"\n
+  475  pwd
+  476  ls
+  477  cp check-dns.sh ../../../../check-dns.sh
+  478  pwd
+  479  ls
+  480  cd ..
+  481  ls
+  482  cd ..
+  483  ls
+  484  cd  terraform-gcp-percona-mysql
+  485  cd ..
+  486  ls
+  487  cd DXC
+  488  ls
+  489  rm -rf bash
+  490  ls
+  491  history | grep "clon"
+  492  set -o vim
+  493  git clone https://sorellan@git.it.lan.com/scm/dxc/bash.git
+  494  pwd
+  495  cd bash
+  496  ls
+  497  mkdir dns
+  498  ls
+  499  cd dns
+  500  cp ../../../../../DIGITAL/check-dns.sh check-dns.sh
+  501  cd ..
+  502  ls
+  503  git add -A
+  504  git commit -m "DXC-200"
+  505  git git push origin
+  506  git push origin
+  507  git checkout -b DXC-200
+  508  ll
+  509  cd dns
+  510  ls
+  511  shfmt check-dns.sh
+  512  bashate
+  513  bashate check-dns.sh
+  514  cat check-dns.sh
+  515  shfmt check-dns.sh
+  516  ls
+  517  shfmt help
+  518  help shfmt
+  519  vi check-dns.sh
+  520  git commit -m "DXC-200"
+  521  git commit -m "DXC-200 holi"
+  522  git add check-dns.sh
+  523  git commit -m "DXC-200 holi"
+  524  ls
+  525  git push origin master
+  526  git push origin DXC-200
+  527  exit
+  528  ssh -p443 7uy3E3ZLoD4ZoncPb79i04JyV@169.46.42.215
+  529  wsx
+  530  git status
+  531  git add .
+  532  git status
+  533  ng serve
+  534  pwd
+  535  git status
+  536  git add .
+  537  git status
+  538  git commit -am "Se ha creado servicio Auth y ek registro de usuarios en Firebase"
+  539  git push
+  540  ng serve
+  541  git sattus
+  542  git status
+  543  git add .
+  544  git status
+  545  git commit -am "Se agrega login y logout"
+  546  git push
+  547  ng g guard guards/auth
+  548  ng serve
+  549  npm install --save rxjs-compat
+  550  ng serve
+  551  git status
+  552  git add .
+  553  git push
+  554  git commit -am "Se agregan los guards"
+  555  git push
+  556  npm install --save angular2-flash
+  557  npm install --save angular2-flash-messages
+  558  npm audit fix
+  559  npm install --save angular2-flash-messages
+  560  npm install @angular/core@^5.0.0
+  561  npm install angular2-flash-messages --save
+  562  npm install npm -gnpm install npm -g
+  563  npm install npm -g
+  564  sudo npm install npm -g
+  565  npm install angular2-flash-messages --save
+  566  ng new
+  567  cd ..
+  568  ls
+  569  ng new
+  570  ng new loginApp
+  571  cd loginApp
+  572  ll
+  573  ng -v
+  574  npm install angular-flash-message --save
+  575  npm install ng-flash-messages --save
+  576  npm audit fix
+  577  npm audit fix --force
+  578  ng serve
+  579  ng -v
+  580  npm install --save angular2
+  581  ng serve
+  582  ls
+  583  cd ..
+  584  ls
+  585  git clone https://github.com/siorellana/login-app
+  586  cd login-app
+  587  ls
+  588  ll
+  589  ng serve
+  590  cd ..
+  591  clear
+  592  ls
+  593  cd ..
+  594  ls
+  595  cd OneDrive
+  596  cd Desarrollo
+  597  ls
+  598  cd ../Learning/Desarrollo/Angular
+  599  ld
+  600  ls
+  601  ng new loginApp --routing --tyle scss
+  602  ls
+  603  git clone https://github.com/siorellana/login-app
+  604  ls
+  605  cd loginApp
+  606  ls
+  607  ng serve
+  608  npm uninstall -g @angular/cli
+  609  sudo npm uninstall -g @angular/cli
+  610  ng serve
+  611  npm cache clean
+  612  sudo npm cache clean
+  613  sudo npm cache clean --force
+  614  npm install -g @angular/cli
+  615  sudo npm install -g @angular/cli
+  616  ng serve
+  617  ng -v
+  618  npm update angular/cli
+  619  npm update @angular/cli
+  620  ng serve
+  621  npm install npm@latest -g 
+  622  sudo npm install npm@latest -g 
+  623  sudo npm install -g @angular/cli
+  624  sudo npm install @angular/cli
+  625  ng serve
+  626  git status
+  627  git add .
+  628  git commit -am "Se reinstala y actuliza nodeJS y NPM"
+  629  git push
+  630  git init
+  631  git status
+  632  git push
+  633  git status
+  634  git remote add login-app 'git@github.com:siorellana/login-app/commits/master'
+  635  git push
+  636  git push origin master
+  637  git push login-app master
+  638  ng serve
+  639  npm install --save angular2-fhash-messages
+  640  sudo npm install --save angular2-flash-messages
+  641  ng serve
+  642  git status
+  643  git add .
+  644  git commit -am "Se agregaron alertas"
+  645  git push
+  646  git remote add https://github.com/siorellana/login-app.git
+  647  git remote add https://github.com/siorellana/login-app.git -m
+  648  git remote add -m https://github.com/siorellana/login-app.git
+  649  git remote add login-app
+  650  git checkout master
+  651  git push all
+  652  git push --all
+  653  git remote add origin https://github.com/siorellana/login-app.git
+  654  git push all
+  655  git push --all
+  656  git push --all arigin
+  657  git push --all origin
+  658  git remote -v
+  659  git push -u github master
+  660  git push -u origin master
+  661  git pull
+  662  git status
+  663  git push
+  664  git push --set-upstream origin master
+  665  echo "# loginapp" >> README.md
+  666  git init
+  667  git remote add origin https://github.com/siorellana/loginapp.git
+  668  ls
+  669  git push -u origin master
+  670  cat README.md
+  671  rm README.md
+  672  ls
+  673  git remote add origin https://github.com/siorellana/loginapp.git
+  674  git remote set-url origin git@github.com:siorellana/loginapp.git
+  675  git push origin master
+  676  git remote rm origin
+  677  git push origin master
+  678  git remote set-url origin git@github.com:siorellana/loginapp.git
+  679  git remote -v
+  680  git push
+  681  git remote add https://github.com/siorellana/loginapp.git
+  682  history
+  683  git remote add origin https://github.com/siorellana/loginapp.git
+  684  git remote -v
+  685  git push
+  686  git push -u origin master
+  687  git status
+  688  git add .
+  689  git status
+  690  git commit -am "Se agregaron alertas"
+  691  git push
