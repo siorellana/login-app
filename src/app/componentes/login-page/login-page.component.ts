@@ -24,9 +24,14 @@ public password: string;
   onClickGoogleLogin() {
     this.authService.loginGoogle()
         .then((res) => {
-          console.log(res);
-            }).catch(err => console.log(err.message));
-
+            this.flashMensaje.show('Ingreso correcto.',
+                {cssClass: 'alert-success', timeout: 4000});
+            this.router.navigate(['/privado']);
+        }).catch((err) => {
+        this.flashMensaje.show(err.message,
+            {cssClass: 'alert-danger', timeout: 4000});
+        this.router.navigate([('/login')]);
+    });
   }
 
     onSubmitLogin() {
