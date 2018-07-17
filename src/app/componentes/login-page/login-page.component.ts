@@ -34,6 +34,19 @@ public password: string;
     });
   }
 
+  onClickFacebookLogin() {
+      this.authService.loginFacebook()
+          .then((res) => {
+              this.flashMensaje.show('Ingreso correcto.',
+                  {cssClass: 'alert-success', timeout: 4000});
+              this.router.navigate(['/privado']);
+          }).catch((err) => {
+          this.flashMensaje.show(err.message,
+              {cssClass: 'alert-danger', timeout: 4000});
+          this.router.navigate([('/login')]);
+      });
+  }
+
     onSubmitLogin() {
   this.authService.loginEmail( this.email, this.password)
       .then((res) => {

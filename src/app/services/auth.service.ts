@@ -26,13 +26,16 @@ export class AuthService {
 
   }
 
+  loginFacebook() {
+    return this.afAuth.auth.signInWithPopup(new firebase.auth.FacebookAuthProvider());
+  }
+
   loginEmail(email: string, pass: string) {
         return new Promise((resolve, reject) => {
             this.afAuth.auth.signInWithEmailAndPassword(email, pass)
                 .then(userData => resolve(userData),
                     err => reject (err));
         });
-
     }
 
   loginGoogle() {
