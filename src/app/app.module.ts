@@ -23,6 +23,10 @@ import { AuthService } from './services/auth.service';
 import { AuthGuard} from './guards/auth.guard';
 
 import { environment } from '../environments/environment';
+import { AboutComponent } from './componentes/about/about.component';
+import { AdminComponent } from './componentes/admin/admin.component';
+import { NuevoResidenteComponent } from './componentes/nuevo-residente/nuevo-residente.component';
+import { EditComponent } from './componentes/edit/edit.component';
 
 
 @NgModule({
@@ -33,7 +37,11 @@ import { environment } from '../environments/environment';
     RegisterPageComponent,
     LoginPageComponent,
     PrivadoPageComponent,
-    NotFoundPageComponent
+    NotFoundPageComponent,
+    AboutComponent,
+    AdminComponent,
+    NuevoResidenteComponent,
+    EditComponent
   ],
   imports: [
     BrowserModule,
